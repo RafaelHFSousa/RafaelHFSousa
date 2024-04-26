@@ -18,3 +18,16 @@ Sou desenvolvedor Full Stack determinado. Atualmente, estou imerso no universo d
 
 ## Linguagens e Ferramentas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHFSousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+----- como adicioanr badge? ----
+<a href="link do seu perfil do linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+GMAIL:
+<a href="https://wa.me/5585986688338">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+
