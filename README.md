@@ -10,3 +10,11 @@ Sou desenvolvedor Full Stack determinado. Atualmente, estou imerso no universo d
 - 💬 Sinta-se à vontade para me perguntar sobre automação em Python; estou aqui para ajudar.
 - 📫 Para entrar em contato comigo, envie um e-mail para rafaelholandafsousa+dev@gmail.com.
 - ⚡ Curiosidade: Sou um entusiasta da tecnologia, sempre fascinado em compreender os mecanismos por trás das inovações.
+
+
+## Minhas Estatísticas
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelHFSousa&show_icons=true)
+
+## Linguagens e Ferramentas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHFSousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
