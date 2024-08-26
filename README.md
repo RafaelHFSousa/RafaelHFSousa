@@ -1,4 +1,4 @@
-# Saudações! Eu sou Rafael Sousa, com 27 anos e facinado no mundo da tecnologia. 👋
+# Saudações! Eu sou Rafael Holanda, com 27 anos e facinado no mundo da tecnologia. 👋
 
 ## Sobre Mim
 Sou desenvolvedor Full Stack determinado. Atualmente, estou imerso no universo da automação, buscando constantemente novas tecnologias e tendências para aprimorar minhas habilidades.
